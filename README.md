@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a data scientist with a passion for developing innovative solutions using cutting-edge technologies. I have experience working with a variety of programming languages and tools, including Python, TensorFlow, and OpenCV. I hold a degree in Electronics and Communication engineering.
+I'm a Data Scientist with a passion for developing innovative solutions using cutting-edge technologies. I have experience working with a variety of programming languages and tools, including Python, TensorFlow, and OpenCV. I hold a degree in Electronics and Communication engineering.
 
 I have developed several projects, including:
 
