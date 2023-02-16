@@ -7,7 +7,7 @@ I'm a Data Scientist with a passion for developing innovative solutions using cu
 
 I have worked on several projects, including:
 
-## *Movie recommendation system:*
+## [*Movie recommendation system:*](https://github.com/AayushhM/Movie-Recommender-System)
 
 Libraries: Pandas,
 NumPy,
@@ -35,7 +35,7 @@ Handling and parsing JSON data,
 List and string manipulation
 
 
-## *Airfare predictor app:*
+## [*Airfare predictor app:*](https://github.com/AayushhM/Airfare-Predictor)
 
 Libraries: NumPy,
 Pandas,
@@ -61,7 +61,7 @@ Data Visualization,
 Feature Engineering,
 Machine Learning Modeling (Regression), Web development (using Flask)
 
-## *Car parking space counter using OpenCV:*
+## [*Car parking space counter using OpenCV:*](https://github.com/AayushhM/Car-parking-space-counter-using-OpenCV)
 
 Libraries: OpenCV (cv2),
 NumPy (np),
