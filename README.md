@@ -5,23 +5,87 @@
 ## 🚀 About Me
 I'm a Data Scientist with a passion for developing innovative solutions using cutting-edge technologies. I have experience working with a variety of programming languages and tools, including Python, TensorFlow, and OpenCV. I hold a degree in Electronics and Communication engineering.
 
-I have developed several projects, including:
+I have worked on several projects, including:
 
-*Movie recommendation system:*
+## *Movie recommendation system:*
 
-Skills used: Python programming/Data analysis and visualization using libraries such as Pandas and Matplotlib/Collaborative filtering techniques (User-User and Item-Item)/Singular value decomposition (SVD)/Nearest neighbor algorithms
+Libraries: Pandas,
+NumPy,
+nltk,
+sklearn, flask,
+sklearn.feature_extraction.text,
+sklearn.metrics.pairwise,
+json,
+bs4,
+urllib,
+pickle,
+requests
 
-*Breast cancer predictor app:*
+Algorithms:
+TF-IDF Vectorizer,
+Naive Bayes Classifier, CountVectorizer,
+cosine_similarity
 
-Skills used: Python programming/Data analysis and visualization using libraries such as Pandas and Matplotlib/Machine learning algorithms such as Support Vector Machines (SVM), K-Nearest Neighbor (KNN), and Random Forest/Model evaluation techniques (e.g., accuracy, precision, recall, F1 score)/Flask for building web applications
+Skills:
+Text preprocessing (removing stopwords, transforming text data),
+Model training and evaluation,
+Machine learning model deployment with Flask,
+Web scraping,
+Handling and parsing JSON data,
+List and string manipulation
 
-*Car parking space counter using OpenCV:*
 
-Skills used: OpenCV library for computer vision/Image processing techniques (e.g., thresholding, morphological operations, contour detection)/Object detection techniques (e.g., background subtraction, blob detection)/Python programming
+## *Airfare predictor app:*
 
-*Object detector using YOLOv4:*
+Libraries: NumPy,
+Pandas,
+matplotlib,
+chart_studio,
+cufflinks,
+seaborn,
+pandas-profiling, Flask,
+Flask-CORS,
+Pandas,
+Scikit-learn
 
-Skills used:YOLO (You Only Look Once) object detection algorithm/Darknet framework for training and testing object detection models/Image annotation tools (e.g., LabelImg)/Python programming/OpenCV library for computer vision
+Algorithms: Random Forest Regression,
+Extra Trees Regressor,
+Random Forest Regressor,
+CatBoost,
+LightGBM,
+XGBoost
+
+Skills: Data Cleaning and Preprocessing,
+Exploratory Data Analysis (EDA),
+Data Visualization,
+Feature Engineering,
+Machine Learning Modeling (Regression), Web development (using Flask)
+
+## *Car parking space counter using OpenCV:*
+
+Libraries: OpenCV (cv2),
+NumPy (np),
+cvzone, pickle
+
+Techniques: Video processing,
+Blob detection,
+Thresholding,
+Adaptive thresholding,
+Gaussian blur,
+Median blur,
+Dilation,
+Count non-zero pixels,
+Drawing rectangles,
+Text rendering
+
+Skills: Creating video capture object and extracting frames,
+Text rendering using cvzone,
+Handling mouse events in OpenCV (cv2.setMouseCallback),
+Displaying images using OpenCV (cv2.imshow),
+Image manipulation in OpenCV, including drawing rectangles (cv2.rectangle)
+
+
+
 
 I am constantly learning and seeking new challenges, and I am always looking for ways to use my skills to help others. Whether you're a business looking for a data-driven solution or a developer looking for a collaboration, I'd love to hear from you! Feel free to reach out to me on GitHub or LinkedIn.
 
